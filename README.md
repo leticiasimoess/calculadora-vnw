@@ -17,7 +17,6 @@ O projeto está estruturado da seguinte forma:<br>
 
 - Calculadora.jsx: Este é o componente principal da calculadora, onde contém a lógica para realizar operações matemáticas,<br>
 e exibir os números e operadores na interface da calculadora.<br>
-<br>
 - styles.js ou styles.scss(stules-components): Arquivo de estilos para aplicar o design e a aparência visual da calculadora.
 
 # Utilização
