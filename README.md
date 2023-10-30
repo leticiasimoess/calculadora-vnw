@@ -18,7 +18,7 @@ multiplicação e divisão. Ela permite ao usuário digitar os números e operad
 
 - *Calculadora.jsx: Este é o componente principal da calculadora, onde contém a lógica para realizar operações matemáticas,<br>
 e exibir os números e operadores na interface da calculadora.<br>*
-- *styles.js ou styles.scss(stules-components): Arquivo de estilos para aplicar o design e a aparência visual da calculadora.*
+- *styles.js ou styles.scss(styles-components): Arquivo de estilos para aplicar o design e a aparência visual da calculadora.*
 
 # Utilização
 *Para executar este projeto localmente:<br>
