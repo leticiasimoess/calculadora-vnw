@@ -1,5 +1,6 @@
-# Calculadora em ReactJS - Proposto pelo Vai na Web.
+# Calculadora em ReactJS.
 
+**Projeto proposto pelo Vai na Web**
 *Este é um projeto de uma calculadora simples desenvolvida utilizando ReactJS e styles-components.*
 
 # Descrição
